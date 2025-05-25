@@ -43,6 +43,7 @@ This script opens a Turtle graphics window and draws a recursive tree on a black
   * Includes a leaf-like circle at branch tips.
 
 ## Preview
+![Screenshot 2025-05-25 134158](https://github.com/user-attachments/assets/4c0c2a71-4cc6-499e-bf97-2de87263fdba)
 
 ![Screenshot 2025-05-25 134454](https://github.com/user-attachments/assets/c6f55e6c-bc50-4559-952c-b5241bc1ccc5)
 
@@ -54,5 +55,4 @@ This project is open-source and free to use for educational and personal purpose
 ## Author
 
 Khurram Rashid
-
 ```
